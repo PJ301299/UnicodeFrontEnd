@@ -6,8 +6,8 @@ This is a basic profile page I created before I saw any templates or any referen
 It uses basic knowledge of html css
 along with a very basic understanding of javascript.
 ```
-![ss1](/Screenshots/t1-1.png)
-![ss2](/Screenshots/t1-2.png)
+![ss1-1](/Screenshots/t1-1.png)
+![ss1-2](/Screenshots/t1-2.png)
 ---
 ## TASK 2
 ```
@@ -24,6 +24,12 @@ Some features are:
 3.Clicking on each of the icons in the education sub-heading provides information about the same.
 
 ```
+![ss2-1](/Screenshots/t2-1.png)
+![ss2-2](/Screenshots/t2-2.png)
+![ss2-3](/Screenshots/t2-3.png)
+![ss2-4](/Screenshots/t2-4.png)
+![ss2-5](/Screenshots/t2-5.png)
+
 ---
 ## TASK 3
 ```
