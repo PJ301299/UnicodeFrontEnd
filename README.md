@@ -6,6 +6,8 @@ This is a basic profile page I created before I saw any templates or any referen
 It uses basic knowledge of html css
 along with a very basic understanding of javascript.
 ```
+![ss1](/Screenshots/t1-1.png)
+![ss2](/Screenshots/t1-2.png)
 ---
 ## TASK 2
 ```
