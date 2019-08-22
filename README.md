@@ -46,3 +46,8 @@ Also,
 On smaller screens the 40 60 ratio vanishes and you have the form on top and the page 
 following it below.
 ```
+![ss3-1](/Screenshots/t3-1.png)
+![ss3-2](/Screenshots/t3-2.png)
+![ss3-3](/Screenshots/t3-4.png)
+![ss3-4](/Screenshots/t3-5.png)
+![ss3-5](/Screenshots/t3-6.png)
