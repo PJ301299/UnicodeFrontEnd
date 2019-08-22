@@ -18,6 +18,7 @@ Some features are:
 
 2.The horizontal display of the education icons becomes vertical when a smaller screen size 
   has been encountered.
+  
 3.Clicking on each of the icons in the education sub-heading provides information about the same.
 
 ```
